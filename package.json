@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/orange-studio/",
+    "build": "vite build --base=/js_101_marina-sevostian/",
     "preview": "vite preview"
   },
   "devDependencies": {
